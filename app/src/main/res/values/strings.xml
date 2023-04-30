@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">10120768Latihan3</string>
+    <string name="app_desc">Monitory Membantu Anda Mengontrol HP Anak</string>
+    <string name="input_code">Ketikkan kode keluarga yang Ayah Bunda miliki di sini</string>
+    <string name="confirm_msg">Dengan menekan tombol masuk berarti Anda menyetujui <b>Ketentuan Pengguna</b> dan <b>Kebijakan Data</b> kami</string>
+    <string name="beres">Beres! Sekarang</string>
+    <string name="udah_bisa"> udah bisa ngecek penggunaan HP mu</string>
+    <string name="setiap"> tiap hari biar bantu </string>
+    <string name="buat"> ngatur waktu :)</string>
+</resources>
